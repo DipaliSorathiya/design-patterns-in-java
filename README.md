@@ -14,16 +14,16 @@ This project showcases practical implementations of commonly used design pattern
 ###  Creational Patterns
 | Pattern   | Description | Link |
 |-----------|-------------|------|
-| Singleton | Ensures a class has only one instance | [Go to Singleton](./creational/singleton/README.md) |
-| Factory   | Delegates object creation to a factory class | [Go to Factory](./creational/factory/README.md) |
+| Singleton | Ensures a class has only one instance | [Go to Singleton](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/creational/singleton/README.md) |
+| Factory   | Delegates object creation to a factory class | [Go to Factory](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/creational/factory/README.md) |
 
-*More patterns coming soon...*
+
 
 ---
 
 ##  Why This Project?
 
-As a software engineer transitioning from QA to Backend Development, I'm deeply committed to writing clean, scalable code.  
+As a software engineer transitioning from SDET to Backend Development, I'm deeply committed to writing clean, scalable code.  
 This repo reflects:
 - My passion for **backend architecture**
 - My preparation for **SDE-1/SDE-2 interviews**
