@@ -1,7 +1,9 @@
 
 #  Strategy Design Pattern – Behavioral
 
-The **Strategy Design Pattern** is a behavioral design pattern that allows you to define a family of algorithms, encapsulate each one, and make them interchangeable at runtime. It helps in selecting the algorithm’s behavior at runtime without modifying the context class.
+The **Strategy Design Pattern** is a behavioral design pattern that allows you to define a family of algorithms,
+encapsulate each one, and make them interchangeable at runtime. 
+It helps in selecting the algorithm’s behavior at runtime without modifying the context class.
 
 ---
 
@@ -108,12 +110,6 @@ Simplifies testing and maintenance
 
 Supports runtime flexibility
 
-### Run
-To run the program:
-
-
-javac Main.java
-java Main
 
  Related Patterns
 State Pattern – Similar structure but focuses on states and transitions
@@ -121,5 +117,6 @@ State Pattern – Similar structure but focuses on states and transitions
 Decorator Pattern – Adds new behavior dynamically, but Strategy is about switching behavior
 
  Summary
-The Strategy pattern is a powerful way to organize and dynamically change behaviors in a clean, object-oriented manner. It keeps your code extensible and avoids hardcoding logic decisions.
+The Strategy pattern is a powerful way to organize and dynamically change behaviors in a clean, object-oriented manner.
+ It keeps your code extensible and avoids hardcoding logic decisions.
 
