@@ -16,6 +16,8 @@ This project showcases practical implementations of commonly used design pattern
 |-----------|-------------|------|
 | Singleton | Ensures a class has only one instance | [Go to Singleton](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/creational/singleton/README.md) |
 | Factory   | Delegates object creation to a factory class | [Go to Factory](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/creational/factory/README.md) |
+| Strategy  | Allows switching between different algorithms at runtime | [Go to Strategy](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/behavioral/Observer/README.md) |
+| Observer  | Automatically notifies subscribed objects on state change | [Go to Observer](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/behavioral/Strategy/README.md)   |
 
 
 
