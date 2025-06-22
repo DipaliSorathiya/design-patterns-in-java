@@ -151,12 +151,6 @@ Strategy	Allows switching behavior; Observer notifies on changes
 Mediator	Central communication hub vs. direct Subject–Observer
 Publisher-Subscriber	Like Observer but more decoupled, often async
 
- How to Run
-bash
-Copy
-Edit
-javac Main.java
-java Main
  Final Hook
 Think of Observer pattern as:
 “Tell me when this changes — I’ll be ready.”
