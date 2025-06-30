@@ -18,6 +18,11 @@ This project showcases practical implementations of commonly used design pattern
 | Factory   | Delegates object creation to a factory class | [Go to Factory](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/creational/factory/README.md) |
 | Strategy  | Allows switching between different algorithms at runtime | [Go to Strategy](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/behavioral/Observer/README.md) |
 | Observer  | Automatically notifies subscribed objects on state change | [Go to Observer](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/behavioral/Strategy/README.md)   |
+| Adaptor  | allows incompatible classes to work together by converting one interface into another expected by the client. | [Go to Adaptor](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/Structural/Adaptor/README.md)   |
+| Builder  | constructs complex objects step-by-step, allowing you to create different representations using the same construction process | [Go to Builder](https://github.com/DipaliSorathiya/design-patterns-in-java/blob/main/src/main/java/org/dipali/patterns/creational/Builder/README.md)   |
+
+
+
 
 
 
